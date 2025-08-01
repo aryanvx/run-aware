@@ -6,7 +6,7 @@ You know ya boy had to build something for the runners out there. Otherwise, I'd
 This is a **biometric feedback system** built specifically for teen distance runners. Think **Strava vibes** but with a little more focus on *your* body and a little less flexing on the timeline. I kept the interface **clean**, the colors **athletic**, and the data **meaningful**. You log your metrics, the system tells you what your body's saying back.
 
 ## **User Preferences**  
-Simple, everyday language. **Data should be clear**—not something you need a sports science degree to decode.
+Simple, everyday language. **Data should be clear**—not something you need a sports science degree to decode. Me personally, I really liked what the peeps at **MyTrainingForecast** did, thanks Cyril if you're reading this!
 
 ## **System Architecture**  
 This MVP’s running off a **simple frontend system**, no backend magic yet. Just data input, visualizations, and feedback. All static for now. Here’s how it’s structured:
