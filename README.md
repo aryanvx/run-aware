@@ -1,4 +1,4 @@
-You know ya boy had to build something for the runners out there. Otherwise, I'd just be logging miles with no data to back it up. And we don't do that around here.
+You know ya boy had to build something for the runners out there. Otherwise, I'd just be logging miles with no data to back it up. And that's a load of bull.
 
 # **Biometric Feedback System for Teen Distance Runners**
 
